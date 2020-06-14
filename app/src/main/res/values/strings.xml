@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Lno0x0B</string>
+    <string name="action_delete_all_entries">Delete All Entries</string>
+    <string name="lungs">lung image</string>
+    <string name="image_main_empty_list_img">image_main_empty_list_img</string>
+    <string name="no_name">No name</string>
+    <string name="category_overview">Overview</string>
+    <string name="hint_profile_name">Name</string>
+    <string name="hint_profile_age">Age</string>
+    <string name="unit_profile_age">years</string>
+    <string name="category_gender">Gender</string>
+    <string name="category_measurement">Measurement</string>
+    <string name="hint_profile_height">Height</string>
+    <string name="unit_profile_height">cm</string>
+    <string name="hint_profile_weight">Weight</string>
+    <string name="unit_profile_weight">kg</string>
+    <string name="action_save">save</string>
+    <string name="action_delete">delete</string>
+    <string name="action_delete2">Delete</string>
+</resources>
