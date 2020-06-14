@@ -5,6 +5,8 @@ Lno (..with Android Architecture Components)
 + ViewModel
 + LiveData
 
+> before milestone1
+
 To do
 
 + Bluetooth connectivity
